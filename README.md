@@ -4,6 +4,7 @@ First Impact Phishing Analysis
 
 # Requirements
 This script is for Trend Micro customers only, (sorry) because it fetches data from the Vision One console using the API, you will need to have a valid account and be a customer of Trend Micro.
+**PowerShell Version 7.0 or higher**
 
 ## API Keys Requirement
 - Trend Vision One API Key
